@@ -1,3 +1,0 @@
-Errores,RF_lag3,RF_lag5,LR_lag3,LR_lag5,Lasso_lag3,Lasso_lag5,SVR_lag3,SVR_lag5,GBR_lag3,GBR_lag5,EN_lag3,EN_lag5
-Train t+1,0.02,0.02,0.04,0.03,0.04,0.03,0.04,0.04,0.02,0.01,0.04,0.03
-Test t+1,0.23,0.23,0.18,0.16,0.16,0.14,0.16,0.14,0.22,0.21,0.16,0.14
